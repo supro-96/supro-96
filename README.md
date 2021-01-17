@@ -46,7 +46,7 @@ My name is Supradip Muralidharan. Originating from Kerala (Palakkad), I currentl
   - Experimented with Amazon SDK Services on the mobile side
   - Built a prototype for an android TV app
   - Integrated PayU SDK for subscription payment services on the TV app
-  <br />
+  
 # Education...🦉
 * **PES University** &nbsp; `Bachelors of Computer Applications` &nbsp; `(Aug 2014 - May 2017)`
   - Graduated First Class with 7.93 CGPA
