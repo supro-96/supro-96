@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 
 # Welcome...🐀
 
-<div align="center">
+
 My name is Supradip Muralidharan. Originating from Kerala (Palakkad), I currently reside in Bengaluru. After earning my Bachelor's Degree in Computer Applications from PES University, I entered the Indian Startup Industry to explore my passion to impact growth and scale small/new businesses through unconvential methods. Worked as a Mobile App Developer for 2 years and after being scarred from a failed startup I'm transitioning my career into Product Management. I'm passionate about the Fintech space and would like to be part of this growth story in India. Apart from that I'm a Minimalist who enjoys doing outdoor activities.
-</div>
+
 
 # Work Experience...🦇
 * **Sabbatical** &nbsp; `Career Break` &nbsp; `(Sep 2019 - Present)`
