@@ -104,3 +104,11 @@ My name is Supradip Muralidharan. Originating from Kerala (Palakkad), I currentl
 # Hobbies & Interests...🐿
   
   🎭 Theatre &nbsp; 🪂 Outdoor Activities &nbsp; 🎲 Board Games &nbsp; 🧘‍Minimalism &nbsp; 🏕 Exploring Other Cultures &nbsp; 🏀 Basketball
+
+# Socials...🐸
+  
+  🗣️ - മലയാളം, ಕನ್ನಡ, हिंदी, English, தமிழ் <br /> 
+
+  <a href="https://stackoverflow.com/users/8525451/supro-96"><img src="https://img.shields.io/badge/-Stack_Overflow_(Street_Credits)-FFFFFF?style=flat-square&amp;logo=StackOverflow"></a> &nbsp; <a href="https://www.youtube.com/channel/UCG0lG4-WSEakzf4dIzIlayA"><img src="https://img.shields.io/badge/-Youtube_(Motovlogs)-FFFFFF?style=flat-square&amp;logo=Youtube&amp;logoColor=red"></a> &nbsp; <a href="http://facebook.com/supro.m.1401"><img src="https://img.shields.io/badge/-Facebook_(Be_My_Friend)-FFFFFF?style=flat-square&amp;logo=Facebook"></a> &nbsp; <a href="pradip.withu@gmail.com"><img src="https://img.shields.io/badge/-Email-FFFFFF?style=flat-square&amp;logo=Gmail"></a>  <br /> 
+
+  <img src="https://visitor-badge.glitch.me/badge?page_id=supro-96.supro-96" alt="visitors">
