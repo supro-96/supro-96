@@ -102,3 +102,4 @@ My name is Supradip Muralidharan. Originating from Kerala (Palakkad), I currentl
 
 # Hobbies & Interests...🐿
   
+  🎭 Theatre &nbsp; 🪂 Outdoor Activities &nbsp; 🎲 Board Games &nbsp; 🧘‍Minimalism &nbsp; 🏕 Exploring Other Cultures &nbsp; 🏀 Basketball
