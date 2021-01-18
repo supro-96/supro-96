@@ -22,12 +22,15 @@ My name is Supradip Muralidharan. Originating from Kerala (Palakkad), I currentl
 # Work Experience...🦇
 * **Sabbatical** &nbsp; `Career Break` &nbsp; `(Sep 2019 - Present)`
   - Researching Fintech & Esports plus talking to industry personnel
+  - Conducted Validational, Functional & User Flow Testing for OneMoney AA Sandbox
+  - Generated Bug reports based on findings and worked with the dev team to improve it. This helped them become the most preferred sandbox for AA Hackathon in Jul-Aug 2020
+  - Published a report on the current state of Indian Esports Ecosystem
   - Worked with 2 theatre groups - Elephant Theatre Society & Chandrato.Collective
   - Quit Application Development
   <br />
 * **Goplannr Technologies Pvt Ltd** &nbsp; `Lead App Developer` &nbsp; `(Jan 2019 - Aug 2019)`
   - First Startup & First Employee
-  - Designed & Developed core features for a real-time insurance application using Kotlin
+  - Designed & Developed core features for a real-time insurance application using Kotlin called OneCover
   - Architected with MVVM pattern & AAC (Android Architecture Components)
   - Integrated Django & Insurance Web Aggregator APIs (Walnut, Instabhima)
   - Sprint planning & execution with the help of JIRA
@@ -35,6 +38,7 @@ My name is Supradip Muralidharan. Originating from Kerala (Palakkad), I currentl
   - Wrote maintainable and reusable code with a focus on security & privacy
   - Managed 1 intern on android team
   - Startup shut down
+  - ![](https://img.shields.io/badge/IDE-Android_Studio_&_XCode-informational?style=flat&color=2bbc8a) &nbsp; ![](https://img.shields.io/badge/Languages-Kotlin,_Java,_Swift,_XML-informational?style=flat&color=2bbc8a) &nbsp; ![](https://img.shields.io/badge/Design-Zeplin-informational?style=flat&color=2bbc8a)&nbsp; ![](https://img.shields.io/badge/Product_Management-Confluence_&_JIRA-informational?style=flat&color=2bbc8a) &nbsp; ![](https://img.shields.io/badge/Team_Communication-Slack-informational?style=flat&color=2bbc8a) &nbsp; ![](https://img.shields.io/badge/Backend-AWS_&_Firebase-informational?style=flat&color=2bbc8a) &nbsp; ![](https://img.shields.io/badge/Version_Control-Git-informational?style=flat&color=2bbc8a) &nbsp; ![](https://img.shields.io/badge/Others-Postman_&_Jenkins-informational?style=flat&color=2bbc8a)
   <br />
 * **Bright Edge Edusystems Technologies Pvt Ltd** &nbsp; `Mobile App Developer` &nbsp; `(Aug 2017 - Sep 2018)`
   - Researched & gathered requirements for a communication app by talking to Bright Kid Montessori Prechool Centres and Parents
@@ -42,24 +46,27 @@ My name is Supradip Muralidharan. Originating from Kerala (Palakkad), I currentl
   - Developed a real-time android app called Bright Connect 2 Parent
   - Built core features using Java
   - Firebase was used as backend
-  - Maintained Bright C2P until Sep 2018. It had 3k users and 4.5 user rating
+  - Maintained Bright C2P until Sep 2018. It had 2k users and 4.5 user rating
   - Experimented with Amazon SDK Services on the mobile side
   - Built a prototype for an android TV app
   - Integrated PayU SDK for subscription payment services on the TV app
+  - Implemented Exotel's in-app calling SDK for the marketing team
+  - ![](https://img.shields.io/badge/IDE-Android_Studio-informational?style=flat&color=2bbc8a) &nbsp; ![](https://img.shields.io/badge/Languages-Java,_RxJava,_JS(React_Native),_SQL-informational?style=flat&color=2bbc8a) &nbsp; ![](https://img.shields.io/badge/Design-Adobe_XD-informational?style=flat&color=2bbc8a)&nbsp; ![](https://img.shields.io/badge/Product_Management-Microsoft_Docs_&_Excel-informational?style=flat&color=2bbc8a) &nbsp; ![](https://img.shields.io/badge/Backend-AWS_&_Firebase-informational?style=flat&color=2bbc8a) &nbsp; ![](https://img.shields.io/badge/Version_Control-Git-informational?style=flat&color=2bbc8a) &nbsp; ![](https://img.shields.io/badge/Others-Postman-informational?style=flat&color=2bbc8a)
   
 # Education...🦉
 * **PES University** &nbsp; `Bachelors of Computer Applications` &nbsp; `(Aug 2014 - May 2017)`
   - Graduated First Class with 7.93 CGPA
-  - 6th sem project : SplitMyRide, an android app that tackles carpooling & bike pooling in bangalore
-  - 4th sem project : Online movie ticket booking system built on localhost with html, css, php, mysql
+  - 6th sem project : SplitMyRide, an android app that tackles carpooling & bike pooling in Bengaluru
+  - 4th sem project : Online movie ticket booking system built on localhost
   - Presented 'Paper Battery' as the next innovation to be used in electronic devices all over the world
   - Freelanced audio mixing & video editing
   - Hardcore Dota 2 Gamer
   - \m/ MetalHead \m/
+  - ![](https://img.shields.io/badge/Fundamentals-DSA,_OS,_OOPS,_Web_Services,_Computer_Networks-informational?style=flat&color=2bbc8a) &nbsp; ![](https://img.shields.io/badge/Languages-C++,_Java,_Python,_HTML_&_CSS,_PHP,_JS,_MySQL-informational?style=flat&color=2bbc8a) &nbsp; ![](https://img.shields.io/badge/3D_Design-Blender-informational?style=flat&color=2bbc8a) &nbsp; ![](https://img.shields.io/badge/Editors-Vim,_Nano,_Eclipse-informational?style=flat&color=2bbc8a)
   <br />
 * **Sri Bhagawan Mahaveer Jain College JC Road** &nbsp; `Commerce (ABEM)` &nbsp; `(Jun 2012 - Mar 2014)`
   - Graduated First Class with 79%
-  - Studied Accounts,Business,Economics & Mathematics
+  - Studied Accounts, Business, Economics & Mathematics
   - Video Editor for the annual exhibition & Jain College Fest 2012 & 2013
   - Spent considerable time on Gaming & Snooker
   <br />
