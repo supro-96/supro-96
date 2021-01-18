@@ -21,7 +21,8 @@ My name is Supradip Muralidharan. Originating from Kerala (Palakkad), I currentl
 
 # Work Experience...🦇
 * **Sabbatical** &nbsp; `Career Break` &nbsp; `(Sep 2019 - Present)`
-  - Researching Fintech & Esports plus talking to industry personnel
+  - Looking for a job
+  - Researched Fintech & Esports plus talking to industry personnel
   - Conducted Validational, Functional & User Flow Testing for OneMoney AA Sandbox
   - Generated Bug reports based on findings and worked with the dev team to improve it. This helped them become the most preferred sandbox for AA Hackathon in Jul-Aug 2020
   - Published a report on the current state of Indian Esports Ecosystem
@@ -84,6 +85,14 @@ My name is Supradip Muralidharan. Originating from Kerala (Palakkad), I currentl
   <br />
   
 # Projects...🦧
+
+* **Esports Pitch Deck (Tournament)** - [View / Download](https://github.com/supro-96/supro-96/blob/main/Esports%20Pitch%20Deck.pdf)
+
+* **Indian Esports Analysis** - [View / Download](https://github.com/supro-96/supro-96/blob/main/Indian%20Esports%20Analysis.pdf)
+
+* **SplitMyRide** - [View / Download](https://github.com/supro-96/supro-96/blob/main/SplitMyRide.pdf)
+
+* **Online Movie Ticket Booking System** - [View / Download](https://github.com/supro-96/supro-96/blob/main/Online%20Movie%20Ticket%20Booking%20System.pdf)
 
 # Hobbies & Interests...🐿
   
