@@ -90,6 +90,8 @@ My name is Supradip Muralidharan. Originating from Kerala (Palakkad), I currentl
 
 * **Indian Esports Analysis** - [View / Download](https://github.com/supro-96/supro-96/blob/main/Indian%20Esports%20Analysis.pdf)
 
+* **OneCover** - [View / Download](https://photos.app.goo.gl/vDsBTHGopbXi1vNb8)
+
 * **BrightC2P** - [View / Download](https://photos.app.goo.gl/vDsBTHGopbXi1vNb8)
 
 * **SplitMyRide** - [View / Download](https://github.com/supro-96/supro-96/blob/main/SplitMyRide.pdf)
