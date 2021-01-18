@@ -92,6 +92,8 @@ My name is Supradip Muralidharan. Originating from Kerala (Palakkad), I currentl
 
 * **OneCover** - [View / Download](https://photos.app.goo.gl/vDsBTHGopbXi1vNb8)
 
+* **Bright Concept Teacher** - [View / Download](https://github.com/supro-96/supro-96/blob/main/Bright%20Concept%20Teacher.pdf)
+
 * **BrightC2P** - [View / Download](https://photos.app.goo.gl/vDsBTHGopbXi1vNb8)
 
 * **SplitMyRide** - [View / Download](https://github.com/supro-96/supro-96/blob/main/SplitMyRide.pdf)
