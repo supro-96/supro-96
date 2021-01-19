@@ -37,6 +37,7 @@ My name is Supradip Muralidharan. Originating from Kerala (Palakkad), I currentl
   - Integrated Django & Insurance Web Aggregator APIs (Walnut, Instabhima)
   - Sprint planning & execution with the help of JIRA
   - CI & CD were done through Jenkins
+  - Iterated the product after steady customer feedback
   - Wrote maintainable and reusable code with a focus on security & privacy
   - Managed 1 intern on android team
   - Startup shut down
