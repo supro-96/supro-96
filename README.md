@@ -20,8 +20,10 @@ My name is Supradip Muralidharan. Originating from Kerala (Palakkad), I currentl
 
 
 # Work Experience...🦇
-* **Sabbatical** &nbsp; `Career Break` &nbsp; `(Sep 2019 - Present)`
+* **Unemployed** &nbsp; `(Jan 2021 - Present)`
   - Looking for a job
+  <br />
+* **Sabbatical** &nbsp; `Career Break` &nbsp; `(Sep 2019 - Dec 2020)`
   - Researched Fintech & Esports plus talked to industry personnel
   - Pitched an Esports product to Angel Investors & VC Firms
   - Conducted Validational, Functional & User Flow Testing for OneMoney AA Sandbox
