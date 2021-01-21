@@ -13,13 +13,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Welcome...🐀
+# Welcome...:rat:
 
 
 My name is Supradip Muralidharan. Originating from Kerala (Palakkad), I currently reside in Bengaluru. Curious, Creative, Tech Savvy and a Business Fighter who sees missions through from start to finish. Startup guy who spent 2.5 years designing, building and scaling mobile app products. Would like to transition my career to Product Management in established startups / companies. I’m Inspired & Passionate about the disruptions happening in Automobile & Fintech today. Yearning to be part of this growth story in India. Below is a 10-min read.
 
 
-# Work Experience...🦇
+# Work Experience...:bat:
 * **Unemployed** &nbsp; `(Jan 2021 - Present)`
   - Looking for a job
   <br />
@@ -59,7 +59,7 @@ My name is Supradip Muralidharan. Originating from Kerala (Palakkad), I currentl
   - Implemented Exotel's in-app calling SDK for the marketing team
   - ![](https://img.shields.io/badge/IDE-Android_Studio-informational?style=flat&color=2bbc8a) &nbsp; ![](https://img.shields.io/badge/Languages-Java,_RxJava,_JS(React_Native),_SQL-informational?style=flat&color=2bbc8a) &nbsp; ![](https://img.shields.io/badge/Design-Adobe_XD-informational?style=flat&color=2bbc8a)&nbsp; ![](https://img.shields.io/badge/Product_Management-Microsoft_Docs_&_Excel-informational?style=flat&color=2bbc8a) &nbsp; ![](https://img.shields.io/badge/Backend-AWS_&_Firebase-informational?style=flat&color=2bbc8a) &nbsp; ![](https://img.shields.io/badge/Version_Control-Git-informational?style=flat&color=2bbc8a) &nbsp; ![](https://img.shields.io/badge/Others-Postman-informational?style=flat&color=2bbc8a)
   
-# Education...🦉
+# Education...:owl:
 * **PES University** &nbsp; `Bachelors of Computer Applications` &nbsp; `(Aug 2014 - May 2017)`
   - Graduated First Class with 7.93 CGPA
   - 6th sem project : SplitMyRide, an android app that tackles carpooling & bike pooling in Bengaluru
@@ -89,7 +89,7 @@ My name is Supradip Muralidharan. Originating from Kerala (Palakkad), I currentl
 * **St. Mary's High School** &nbsp; `State Syllabus` &nbsp; `(Jun 2001 - Mar 2006)`
   <br />
   
-# Projects...🦧
+# Projects...:orangutan:
 
 * **Esports Pitch Deck (Tournament)** - [View / Download](https://github.com/supro-96/supro-96/blob/main/Esports%20Pitch%20Deck.pdf)
 
@@ -105,11 +105,11 @@ My name is Supradip Muralidharan. Originating from Kerala (Palakkad), I currentl
 
 * **Online Movie Ticket Booking System** - [View / Download](https://github.com/supro-96/supro-96/blob/main/Online%20Movie%20Ticket%20Booking%20System.pdf)
 
-# Hobbies & Interests...🐿
+# Hobbies & Interests...:chipmunk:
   
-  🎭 Theatre &nbsp; 🪂 Outdoor Activities &nbsp; 🎲 Board Games &nbsp; 🧘‍Minimalism &nbsp; 🏕 Exploring Other Cultures &nbsp; 🏀 Basketball
+  :performing_arts: Theatre &nbsp; :parachute: Outdoor Activities &nbsp; :game_die: Board Games &nbsp; :lotus_position_man:Minimalism &nbsp; :camping: Exploring Other Cultures &nbsp; :basketball: Basketball
 
-# Socials...🐸
+# Socials...:frog:
   
   🗣️ - മലയാളം, ಕನ್ನಡ, हिंदी, English, தமிழ் <br /> 
 
