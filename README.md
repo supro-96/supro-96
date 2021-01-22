@@ -48,7 +48,7 @@ My name is Supradip Muralidharan. Originating from Kerala (Palakkad), I currentl
   <br />
 * **Bright Edge Edusystems Technologies Pvt Ltd** &nbsp; `Mobile App Developer` &nbsp; `(Aug 2017 - Sep 2018)`
   - Researched & gathered requirements for a communication app by talking to Bright Kid Montessori Prechool Centres and Parents
-  - Designed the look for evey page/screen in Adobe XD (Simple Wireframing)
+  - Designed the look for every page/screen in Adobe XD (Simple Wireframing)
   - Developed a real-time android app called Bright Connect 2 Parent
   - Built core features using Java
   - Firebase was used as backend
