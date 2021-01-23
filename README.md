@@ -31,7 +31,7 @@ My name is Supradip Muralidharan. Originating from Kerala (Palakkad), I currentl
   - Published a report on the current state of Indian Esports Ecosystem
   - Worked with 2 theatre groups - Elephant Theatre Society & Chandrato.Collective
   - Quit Application Development
-  - ![](https://img.shields.io/badge/Video_Editing-iMovie-informational?style=flat&color=2bbc8a) &nbsp; ![](https://img.shields.io/badge/Audio_Mixing-GarageBand/Wavepad-informational?style=flat&color=2bbc8a)&nbsp; ![](https://img.shields.io/badge/Product_Management-Confluence,_JIRA,_Trello-informational?style=flat&color=2bbc8a) &nbsp; ![](https://img.shields.io/badge/IDE-IntelliJ-informational?style=flat&color=2bbc8a)
+  - ![](https://img.shields.io/badge/Video_Editing-iMovie-informational?style=flat&color=2bbc8a) &nbsp; ![](https://img.shields.io/badge/Audio_Mixing-GarageBand/Wavepad-informational?style=flat&color=2bbc8a)&nbsp; ![](https://img.shields.io/badge/Product_Management-Confluence,_JIRA,_Trello-informational?style=flat&color=2bbc8a) &nbsp; ![](https://img.shields.io/badge/Others-Flutter,_IntelliJ-informational?style=flat&color=2bbc8a)
   <br />
 * **Goplannr Technologies Pvt Ltd** &nbsp; `Lead App Developer` &nbsp; `(Jan 2019 - Aug 2019)`
   - First Startup & First Employee
