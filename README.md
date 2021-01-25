@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 # Welcome...:rat:
 
 
-My name is Supradip Muralidharan. Originating from Kerala (Palakkad), I currently reside in Bengaluru. Curious, Creative, Tech Savvy and a Business Fighter who sees missions through from start to finish. Startup guy who spent 2.5 years designing, building and scaling mobile app products. To know more read below ( 10 mins ) :
+My name is Supradip Muralidharan. Originating from Kerala (Palakkad), I currently reside in Bengaluru. Curious, Creative, Tech Savvy and a Business Fighter who sees missions through from start to finish. Startup guy who spent 2.5 years designing, building and scaling mobile app products. Would like to transition my career to Product Management in established startups / companies. I'm Inspired & Passionate about the disruptions happening in Automobile & Fintech today. Yearning to be part of this growth story in India. To know more read below ( 10 mins ) :
 
 
 # Work Experience...:bat:
