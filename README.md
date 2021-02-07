@@ -81,7 +81,7 @@ My name is Supradip Muralidharan. Originating from Kerala, I currently reside in
 
 # Hobbies & Interests...:chipmunk:
   
-  :performing_arts: Theatre &nbsp; :parachute: Outdoor Activities &nbsp; :game_die: Board Games &nbsp; :lotus_position_man:Minimalism &nbsp; :camping: Exploring Other Cultures &nbsp; :basketball: Basketball
+  :performing_arts: Theatre &nbsp; :parachute: Outdoor Activities &nbsp; :game_die: Board Games &nbsp; :lotus_position_man:Minimalism &nbsp; :camping: Exploring Other Cultures
 
 # Socials...:frog:
   
