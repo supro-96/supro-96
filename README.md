@@ -40,7 +40,7 @@ My name is Supradip Muralidharan. Originating from Kerala, I currently reside in
 # Education...:owl:
 * **PES University** &nbsp; `Bachelors of Computer Applications` &nbsp; `(Aug 2014 - May 2017)`
   <br />
-* **Sri Bhagawan Mahaveer Jain College JC Road** &nbsp; `Commerce` &nbsp; `(Jun 2012 - Mar 2014)`
+* **Sri Bhagawan Mahaveer Jain College** &nbsp; `Commerce` &nbsp; `(Jun 2012 - Mar 2014)`
   <br />
 * **B.P. Indian Public School** &nbsp; `ICSE Syllabus` &nbsp; `(Jun 2006 - Mar 2012)`
   <br />  
