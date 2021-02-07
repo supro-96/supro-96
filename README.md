@@ -39,22 +39,10 @@ My name is Supradip Muralidharan. Originating from Kerala, I currently reside in
   
 # Education...:owl:
 * **PES University** &nbsp; `Bachelors of Computer Applications` &nbsp; `(Aug 2014 - May 2017)`
-  - Graduated First Class with Distinction at 7.93 CGPA
-  - 6th sem project : SplitMyRide, a full stack android app that tackles carpooling & bike pooling in Bengaluru
-  - 4th sem project : Online movie ticket booking system built on localhost
-  - Presented 'Paper Battery' as the next innovation to be used in electronic devices all over the world
   <br />
 * **Sri Bhagawan Mahaveer Jain College JC Road** &nbsp; `Commerce` &nbsp; `(Jun 2012 - Mar 2014)`
-  - Graduated First Class with 79%
-  - Studied Accounts, Business, Economics & Mathematics
-  - Video Editor for the annual exhibition & Jain College Fest 2012 & 2013
   <br />
-* **B.P. Indian Public School** &nbsp; `ICSE` &nbsp; `(Jun 2006 - Mar 2012)`
-  - Graduated with 57.8%
-  - Built a java project that functions like Bangalore One
-  - Part of the volunteering team for senior farewell celebration. We conducted a fashion show & dance performance [2011]
-  - Performed in a political skit (Simon Go-Back) that was played on Independance Day [2010]
-  - Participated as a dance performer for the [2009] annual celebrations
+* **B.P. Indian Public School** &nbsp; `ICSE Syllabus` &nbsp; `(Jun 2006 - Mar 2012)`
   <br />  
 * **St. Mary's High School** &nbsp; `State Syllabus` &nbsp; `(Jun 2001 - Mar 2006)`
   <br />
