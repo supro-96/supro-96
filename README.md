@@ -20,10 +20,10 @@ My name is Supradip Muralidharan. Originating from Kerala, I currently reside in
 
 
 # Work Experience...:bat:
-* **Sabbatical & Unemployed** &nbsp; `Career Break` &nbsp; `(Sep 2019 - Present)`
-  - Looking for a job
+* **Sabbatical & Unemployed** &nbsp; `(Sep 2019 - Present)`
+  - Took a career break & Open to work now
   - Researched Fintech & Esports plus talked to industry personnel
-  - Tested API's & User Journeys on OneMoney AA Sandbox. Generated Bug reports based on findings and worked with the dev team to improve it.
+  - Tested API's & User Journeys on OneMoney AA Sandbox. Generated Bug reports based on findings and worked with the dev team to improve it
   <br />
 * **Goplannr Technologies Pvt Ltd** &nbsp; `Lead App Developer` &nbsp; `(Jan 2019 - Aug 2019)`
   - First Startup & First Employee
