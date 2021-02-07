@@ -48,7 +48,6 @@ My name is Supradip Muralidharan. Originating from Kerala, I currently reside in
   - 6th sem project : SplitMyRide, a full stack android app that tackles carpooling & bike pooling in Bengaluru
   - 4th sem project : Online movie ticket booking system built on localhost
   - Presented 'Paper Battery' as the next innovation to be used in electronic devices all over the world
-  - ![](https://img.shields.io/badge/Fundamentals-DSA,_OS,_OOPS,_Web_Services,_Computer_Networks-informational?style=flat&color=2bbc8a) &nbsp; ![](https://img.shields.io/badge/Languages-C++,_Java,_Python,_HTML_&_CSS,_PHP,_JS,_MySQL-informational?style=flat&color=2bbc8a) &nbsp; ![](https://img.shields.io/badge/3D_Design-Blender-informational?style=flat&color=2bbc8a) &nbsp; ![](https://img.shields.io/badge/Editors-Vim,_Nano,_Eclipse-informational?style=flat&color=2bbc8a)
   <br />
 * **Sri Bhagawan Mahaveer Jain College JC Road** &nbsp; `Commerce` &nbsp; `(Jun 2012 - Mar 2014)`
   - Graduated First Class with 79%
