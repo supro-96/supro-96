@@ -71,14 +71,8 @@ My name is Supradip Muralidharan. Originating from Kerala, I currently reside in
 
 * **Online Movie Ticket Booking System** - [View / Download](https://github.com/supro-96/supro-96/blob/main/Online%20Movie%20Ticket%20Booking%20System.pdf)
 
-# Hobbies & Interests...:chipmunk:
-  
-  :performing_arts: Theatre &nbsp; :parachute: Outdoor Activities &nbsp; :game_die: Board Games &nbsp; :lotus_position_man:Minimalism &nbsp; :camping: Exploring Other Cultures
-
 # Socials...:frog:
-  
-  🗣️ - മലയാളം, ಕನ್ನಡ, हिंदी, English, தமிழ் <br /> 
 
-  <a href="https://stackoverflow.com/users/8525451/supro-96"><img src="https://img.shields.io/badge/-Stack_Overflow_(Street_Credits)-FFFFFF?style=flat-square&amp;logo=StackOverflow"></a> &nbsp; <a href="https://www.youtube.com/channel/UCG0lG4-WSEakzf4dIzIlayA"><img src="https://img.shields.io/badge/-Youtube_(Motovlogs)-FFFFFF?style=flat-square&amp;logo=Youtube&amp;logoColor=red"></a> &nbsp; <a href="mailto:pradip.withu@gmail.com"><img src="https://img.shields.io/badge/-Email-FFFFFF?style=flat-square&amp;logo=Gmail"></a> &nbsp; <img src="https://img.shields.io/badge/-+917259837601-FFFFFF?style=flat-square&amp;logo=Whatsapp">  <br /> 
+  <a href="https://stackoverflow.com/users/8525451/supro-96"><img src="https://img.shields.io/badge/-Stack_Overflow_(Street_Credits)-FFFFFF?style=flat-square&amp;logo=StackOverflow"></a> &nbsp; <a href="mailto:pradip.withu@gmail.com"><img src="https://img.shields.io/badge/-Email-FFFFFF?style=flat-square&amp;logo=Gmail"></a> &nbsp; <img src="https://img.shields.io/badge/-+917259837601-FFFFFF?style=flat-square&amp;logo=Whatsapp">  <br /> 
 
   <img src="https://visitor-badge.glitch.me/badge?page_id=supro-96.supro-96" alt="visitors">
