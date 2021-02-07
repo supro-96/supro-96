@@ -59,7 +59,7 @@ My name is Supradip Muralidharan. Originating from Kerala, I currently reside in
 * **St. Mary's High School** &nbsp; `State Syllabus` &nbsp; `(Jun 2001 - Mar 2006)`
   <br />
   
-# Projects...:orangutan:
+# Projects...:chipmunk:
 
 * **OneCover** - [View / Download](https://photos.app.goo.gl/vDsBTHGopbXi1vNb8)
 
