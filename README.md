@@ -25,7 +25,7 @@ My name is Supradip Muralidharan. Originating from Kerala, I currently reside in
   - Freelancing Mobile Development (Flutter)
   - Theatre acting & backstage `Sep 2019 - Mar 2020`
   <br />
-* **Goplannr Technologies Pvt Ltd** &nbsp; `Lead App Developer` &nbsp; `(Jan 2019 - Aug 2019)`
+* **Goplannr Technologies Pvt Ltd** &nbsp; `Lead App Developer` &nbsp; `Jan 2019 - Aug 2019`
   - First Startup & First Employee
   - Built OneCover android app using MVVM Pattern & AAC (Android Architecture Components)
   - Integrated Django & Insurance Web Aggregator APIs (Walnut, Instabhima)
@@ -34,7 +34,7 @@ My name is Supradip Muralidharan. Originating from Kerala, I currently reside in
   - Startup shut down
   - ![](https://img.shields.io/badge/IDE-Android_Studio-informational?style=flat&color=2bbc8a) &nbsp; ![](https://img.shields.io/badge/Languages-Kotlin,_Java,_XML-informational?style=flat&color=2bbc8a) &nbsp; ![](https://img.shields.io/badge/Design-Sketch_&_Zeplin-informational?style=flat&color=2bbc8a)&nbsp; ![](https://img.shields.io/badge/Product_Management-Confluence,_JIRA,_Mixpanel,_Google_Analytics-informational?style=flat&color=2bbc8a) &nbsp; ![](https://img.shields.io/badge/Team_Communication-Slack-informational?style=flat&color=2bbc8a) &nbsp; ![](https://img.shields.io/badge/Backend-AWS_&_Firebase-informational?style=flat&color=2bbc8a) &nbsp; ![](https://img.shields.io/badge/Version_Control-Git-informational?style=flat&color=2bbc8a) &nbsp; ![](https://img.shields.io/badge/Others-Postman_&_Jenkins-informational?style=flat&color=2bbc8a)
   <br />
-* **Bright Edge Edusystems Technologies Pvt Ltd** &nbsp; `Mobile App Developer` &nbsp; `(Aug 2017 - Sep 2018)`
+* **Bright Edge Edusystems Technologies Pvt Ltd** &nbsp; `Mobile App Developer` &nbsp; `Aug 2017 - Sep 2018`
   - Built & maintained BrightC2P android app & BCT TV app
   - Bright C2P had 2k users and 4.5 user rating
   - Experimented with Amazon SDK Services on the mobile side
