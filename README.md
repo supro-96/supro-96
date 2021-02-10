@@ -45,9 +45,9 @@ My name is Supradip Muralidharan. Originating from Kerala, I currently reside in
 # Education...:owl:
 Institution | Course | Graduating Year | Grade
 ------------ | ------------- | ------------ | ------------
-**PES University** | `Bachelors of Computer Applications` | `(Aug 2014 - May 2017)` | `7.93 CGPA`
-**Sri Bhagawan Mahaveer Jain College** | `Commerce` | `(Jun 2012 - Mar 2014)` | `79%`
-**B.P. Indian Public School** | `ICSE` | `(Mar 2012)` | `57.8%`
+**PES University** | `Bachelors of Computer Applications` | `Aug 2014 - May 2017` | `7.93 CGPA`
+**Sri Bhagawan Mahaveer Jain College** | `Commerce` | `Jun 2012 - Mar 2014` | `79%`
+**B.P. Indian Public School** | `ICSE` | `Mar 2012` | `57.8%`
   
 # Projects...:chipmunk:
 
