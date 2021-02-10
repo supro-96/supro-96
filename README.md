@@ -21,7 +21,7 @@ My name is Supradip Muralidharan. Originating from Kerala, I currently reside in
 
 # Work Experience...:bat:
 * **Present**
-  - Looking for APM/PM roles
+  - Looking for Product roles (APM/PM)
   - Freelancing Mobile Development (Flutter)
   - Theatre from _Sep 2019 - Mar 2020_
   <br />
