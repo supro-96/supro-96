@@ -42,10 +42,7 @@ My name is Supradip Muralidharan. Originating from Kerala, I currently reside in
   <br />
 * **Sri Bhagawan Mahaveer Jain College** &nbsp; `Commerce ABEM` &nbsp; `(Jun 2012 - Mar 2014)`
   <br />
-* **B.P. Indian Public School** &nbsp; `ICSE Syllabus` &nbsp; `(Jun 2006 - Mar 2012)`
-  <br />  
-* **St. Mary's High School** &nbsp; `State Syllabus` &nbsp; `(Jun 2001 - Mar 2006)`
-  <br />
+* **B.P. Indian Public School** &nbsp; `ICSE Syllabus` &nbsp; `(Mar 2012)`
   
 # Projects...:chipmunk:
 
