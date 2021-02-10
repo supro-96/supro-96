@@ -43,11 +43,11 @@ My name is Supradip Muralidharan. Originating from Kerala, I currently reside in
   - ![](https://img.shields.io/badge/IDE-Android_Studio-informational?style=flat&color=2bbc8a) &nbsp; ![](https://img.shields.io/badge/Languages-Java,_SQL-informational?style=flat&color=2bbc8a) &nbsp; ![](https://img.shields.io/badge/Design-Adobe_XD-informational?style=flat&color=2bbc8a) &nbsp; ![](https://img.shields.io/badge/Product_Management-Microsoft_Docs_&_Excel-informational?style=flat&color=2bbc8a) &nbsp; ![](https://img.shields.io/badge/Backend-AWS_&_Firebase-informational?style=flat&color=2bbc8a) &nbsp; ![](https://img.shields.io/badge/Version_Control-Git-informational?style=flat&color=2bbc8a) &nbsp; ![](https://img.shields.io/badge/Others-Postman-informational?style=flat&color=2bbc8a)
   
 # Education...:owl:
-* **PES University** &nbsp; `Bachelors of Computer Applications` &nbsp; `(Aug 2014 - May 2017)`
+* **PES University** &nbsp; `Bachelors of Computer Applications` &nbsp; `(Aug 2014 - May 2017)` &nbsp; `7.93 CGPA`
   <br />
-* **Sri Bhagawan Mahaveer Jain College** &nbsp; `Commerce ABEM` &nbsp; `(Jun 2012 - Mar 2014)`
+* **Sri Bhagawan Mahaveer Jain College** &nbsp; `Commerce ABEM` &nbsp; `(Jun 2012 - Mar 2014)` &nbsp; `79%`
   <br />
-* **B.P. Indian Public School** &nbsp; `ICSE Syllabus` &nbsp; `(Mar 2012)`
+* **B.P. Indian Public School** &nbsp; `ICSE Syllabus` &nbsp; `(Mar 2012)` &nbsp; `57.8%`
   
 # Projects...:chipmunk:
 
