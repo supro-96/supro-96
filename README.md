@@ -16,10 +16,15 @@ Here are some ideas to get you started:
 # Welcome...:rat:
 
 
-My name is Supradip Muralidharan. Originating from Kerala, I currently reside in Bengaluru. Startup guy who likes designing, building and scaling mobile app products. To know more read below ( 6 mins ) :
+My name is Supradip Muralidharan. Originating from Kerala, I currently reside in Bengaluru. Startup guy who spent 2.5 years designing, building and scaling mobile app products. To know more read below ( 6 mins ) :
 
 
 # Work Experience...:bat:
+* **Present**
+  - Looking for APM/PM roles
+  - Freelancing Mobile Development (Flutter)
+  - Theatre from _Sep 2019 - Mar 2020_
+  <br />
 * **Goplannr Technologies Pvt Ltd** &nbsp; `Lead App Developer` &nbsp; `(Jan 2019 - Aug 2019)`
   - First Startup & First Employee
   - Built OneCover android app using MVVM Pattern & AAC (Android Architecture Components)
