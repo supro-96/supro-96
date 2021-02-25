@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 # Welcome...:rat:
 
 
-My name is Supradip Muralidharan. Originating from Kerala, I currently reside in Bengaluru. Startup guy who spent 2.5 years designing, building and scaling mobile app products. To know more read below ( 6 mins ) :
+My name is Supradip Muralidharan. Originating from Kerala, I currently reside in Bengaluru. Startup guy who spent 2.5 years designing, building and scaling mobile app products. Doing Product Management now. To know more read below ( 6 mins ) :
 
 
 # Work Experience...:bat:
