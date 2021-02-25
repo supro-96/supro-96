@@ -20,10 +20,12 @@ My name is Supradip Muralidharan. Originating from Kerala, I currently reside in
 
 
 # Work Experience...:bat:
-* **Present**
-  - Looking for Product roles (APM/PM)
-  - Freelancing Mobile Development (Flutter)
-  - Theatre acting & backstage `Sep 2019 - Mar 2020`
+* **Ola Financial Services Pvt Ltd** &nbsp; `Associate Product Manager` &nbsp; `Feb 2021 - Present`
+  - Doing Product Managagement for an Insurance vertical
+  <br />
+* **Sabbatical** &nbsp; `Sep 2019 - Jan 2021`
+  - Researched Fintech & Esports
+  - Theatre acting & backstage till `Mar 2020`
   <br />
 * **Goplannr Technologies Pvt Ltd** &nbsp; `Lead App Developer` &nbsp; `Jan 2019 - Aug 2019`
   - First Startup & First Employee
