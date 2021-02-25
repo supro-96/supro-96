@@ -21,7 +21,7 @@ My name is Supradip Muralidharan. Originating from Kerala, I currently reside in
 
 # Work Experience...:bat:
 * **Ola Financial Services Pvt Ltd** &nbsp; `Associate Product Manager` &nbsp; `Feb 2021 - Present`
-  - Working on insurance products for Ola drivers 
+  - Working on insurance products for drivers 
   <br />
 * **Sabbatical** &nbsp; `Sep 2019 - Jan 2021`
   - Researched Fintech & Esports
