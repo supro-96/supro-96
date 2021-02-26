@@ -24,6 +24,7 @@ My name is Supradip Muralidharan. Originating from Kerala, I currently reside in
   - Working on insurance products for drivers 
   <br />
 * **Sabbatical** &nbsp; `Sep 2019 - Jan 2021`
+  - Interviewed for Biz Ops, Product & Entrepreneural roles
   - Researched Fintech & Esports
   - Theatre acting & backstage till `Mar 2020`
   <br />
