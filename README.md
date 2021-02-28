@@ -25,7 +25,7 @@ My name is Supradip Muralidharan. Originating from Kerala, I currently reside in
   <br />
 * **Sabbatical** &nbsp; `Sep 2019 - Jan 2021`
   - Interviewed for Biz Ops, Product & Entrepreneural roles
-  - Researched Fintech & Esports
+  - Researched Fintech (AA,OCEN) & Esports (Tournament)
   - Theatre acting & backstage till `Mar 2020`
   <br />
 * **Goplannr Technologies Pvt Ltd** &nbsp; `Lead App Developer` &nbsp; `Jan 2019 - Aug 2019`
