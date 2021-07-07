@@ -21,8 +21,8 @@ My name is Supradip Muralidharan. Originating from Kerala, I currently reside in
 
 # Work Experience...:bat:
 * **Ola (ANI Technologies Pvt Ltd)** &nbsp; `Associate Product Manager` &nbsp; `Feb 2021 - Present`
-  - Working on a new vertical called convenience delivery
-  - Worked on commercial insurance product till June
+  - Working on a new vertical called Convenience Delivery
+  - Worked on Commercial Insurance Product till June
   <br />
 * **Sabbatical** &nbsp; `Sep 2019 - Jan 2021`
   - Interviewed for Biz Ops, Product & Entrepreneural roles
