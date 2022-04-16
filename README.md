@@ -32,12 +32,14 @@ My name is Supradip Muralidharan. Originating from Kerala, I currently reside in
   - Managed 1 intern on android team
   - Startup shut down
   <br />
-* **Bright Edge Edusystems Technologies Pvt Ltd** &nbsp; `Mobile App Developer` &nbsp; `Aug 2017 - Sep 2018`
-  - Built & maintained BrightC2P android app & BCT TV app
-  - Bright C2P had 2k users and 4.5 user rating
-  - Experimented with Amazon SDK Services on the mobile side
+* **[Bright Edge Edusystems Technologies Pvt Ltd](https://www.brightkidmont.com/)** &nbsp; `Mobile App Developer` &nbsp; `Aug 2017 - Sep 2018`
+  - Responsible for developing & maintaining 2 real-time android applications (Bright C2P & BCT)
+  - Routinely researched pain points faced by parents, teachers & preschool centre owners by speaking to them.
+  - Presented the on-ground situation to main stakeholders & broke down the requirements into features (mvp,v1,v1.2 etc.)
+  - Designed wireframes in Adobe XD
+  - Firebase & Amazon Web Services was used as backend services whilst java for the app side.
   - Integrated PayU SDK for subscription payment services on the TV app
-  - Implemented Exotel's in-app calling SDK for the marketing team
+  - Bright C2P had 2k users and 4.5 user rating
 
   
 # Education...:owl:
