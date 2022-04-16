@@ -25,8 +25,8 @@ My name is Supradip Muralidharan. Originating from Kerala, I currently reside in
   - Worked on Commercial Insurance Product till June
   <br />
 * **Goplannr Technologies Pvt Ltd** &nbsp; `Lead App Developer` &nbsp; `Jan 2019 - Aug 2019`
-  - First Startup & First Employee
   - Goplannr was an insurance-tech startup that was disrupting the way certified insurance agents sold health insurance in India
+  - First Startup & First Employee
   - Developed OneCover android app using MVVM Pattern & AAC (Android Architecture Components)
   - Integrated Django & Insurance Web Aggregator APIs (Walnut, Instabhima)
   - Pilot contracts were signed with Cholamandalam MS, Max Bhupa, Aditya Birla Sun Life
