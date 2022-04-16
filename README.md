@@ -20,21 +20,23 @@ My name is Supradip Muralidharan. Originating from Kerala, I currently reside in
 
 
 # Work Experience...:bat:
-* **Ola (ANI Technologies Pvt Ltd)** &nbsp; `Associate Product Manager` &nbsp; `Feb 2021 - Present`
+* **[Ola (ANI Technologies Pvt Ltd)](https://in.linkedin.com/company/olacabs-com)** &nbsp; `Associate Product Manager` &nbsp; `Feb 2021 - Present`
   - Working on a new vertical called Convenience Delivery
   - Worked on Commercial Insurance Product till June
   <br />
 * **Goplannr Technologies Pvt Ltd** &nbsp; `Lead App Developer` &nbsp; `Jan 2019 - Aug 2019`
   - First Startup & First Employee
-  - Built OneCover android app using MVVM Pattern & AAC (Android Architecture Components)
+  - Goplannr was an insurance-tech startup that was disrupting the way certified insurance agents sold health insurance in India
+  - Developed OneCover android app using MVVM Pattern & AAC (Android Architecture Components)
   - Integrated Django & Insurance Web Aggregator APIs (Walnut, Instabhima)
-  - Iterated the product after steady customer feedback
+  - Pilot contracts were signed with Cholamandalam MS, Max Bhupa, Aditya Birla Sun Life
+  - There were around 1.8k users & every sprint we iterated the product based on customer feedback
   - Managed 1 intern on android team
   - Startup shut down
   <br />
 * **[Bright Edge Edusystems Technologies Pvt Ltd](https://www.brightkidmont.com/)** &nbsp; `Mobile App Developer` &nbsp; `Aug 2017 - Sep 2018`
   - Responsible for developing & maintaining 2 real-time android applications (Bright C2P & BCT)
-  - Routinely researched pain points faced by parents, teachers & preschool centre owners by speaking to them.
+  - Researched pain points faced by parents, teachers & preschool centre owners by speaking to them.
   - Presented the on-ground situation to main stakeholders & broke down the requirements into features (mvp,v1,v1.2 etc.)
   - Designed wireframes in Adobe XD
   - Firebase & Amazon Web Services was used as backend services whilst java for the app side.
