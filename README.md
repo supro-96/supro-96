@@ -31,7 +31,6 @@ My name is Supradip Muralidharan. Originating from Kerala, I currently reside in
   - Iterated the product after steady customer feedback
   - Managed 1 intern on android team
   - Startup shut down
-  - ![](https://img.shields.io/badge/IDE-Android_Studio-informational?style=flat&color=2bbc8a) &nbsp; ![](https://img.shields.io/badge/Languages-Kotlin,_Java,_XML-informational?style=flat&color=2bbc8a) &nbsp; ![](https://img.shields.io/badge/Design-Sketch_&_Zeplin-informational?style=flat&color=2bbc8a)&nbsp; ![](https://img.shields.io/badge/Product_Management-Confluence,_JIRA,_Mixpanel,_Google_Analytics-informational?style=flat&color=2bbc8a) &nbsp; ![](https://img.shields.io/badge/Team_Communication-Slack-informational?style=flat&color=2bbc8a) &nbsp; ![](https://img.shields.io/badge/Backend-AWS_&_Firebase-informational?style=flat&color=2bbc8a) &nbsp; ![](https://img.shields.io/badge/Version_Control-Git-informational?style=flat&color=2bbc8a) &nbsp; ![](https://img.shields.io/badge/Others-Postman_&_Jenkins-informational?style=flat&color=2bbc8a)
   <br />
 * **Bright Edge Edusystems Technologies Pvt Ltd** &nbsp; `Mobile App Developer` &nbsp; `Aug 2017 - Sep 2018`
   - Built & maintained BrightC2P android app & BCT TV app
@@ -39,7 +38,7 @@ My name is Supradip Muralidharan. Originating from Kerala, I currently reside in
   - Experimented with Amazon SDK Services on the mobile side
   - Integrated PayU SDK for subscription payment services on the TV app
   - Implemented Exotel's in-app calling SDK for the marketing team
-  - ![](https://img.shields.io/badge/IDE-Android_Studio-informational?style=flat&color=2bbc8a) &nbsp; ![](https://img.shields.io/badge/Languages-Java,_SQL-informational?style=flat&color=2bbc8a) &nbsp; ![](https://img.shields.io/badge/Design-Adobe_XD-informational?style=flat&color=2bbc8a) &nbsp; ![](https://img.shields.io/badge/Product_Management-Microsoft_Docs_&_Excel-informational?style=flat&color=2bbc8a) &nbsp; ![](https://img.shields.io/badge/Backend-AWS_&_Firebase-informational?style=flat&color=2bbc8a) &nbsp; ![](https://img.shields.io/badge/Version_Control-Git-informational?style=flat&color=2bbc8a) &nbsp; ![](https://img.shields.io/badge/Others-Postman-informational?style=flat&color=2bbc8a)
+
   
 # Education...:owl:
 Institution | Course | Graduating Year | Grade
