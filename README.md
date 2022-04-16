@@ -24,11 +24,6 @@ My name is Supradip Muralidharan. Originating from Kerala, I currently reside in
   - Working on a new vertical called Convenience Delivery
   - Worked on Commercial Insurance Product till June
   <br />
-* **Sabbatical** &nbsp; `Sep 2019 - Jan 2021`
-  - Interviewed for Biz Ops, Product & Entrepreneural roles
-  - Researched Fintech [ AA, OCEN ] & Esports [ Tournament ]
-  - Theatre acting & backstage till `Mar 2020`
-  <br />
 * **Goplannr Technologies Pvt Ltd** &nbsp; `Lead App Developer` &nbsp; `Jan 2019 - Aug 2019`
   - First Startup & First Employee
   - Built OneCover android app using MVVM Pattern & AAC (Android Architecture Components)
