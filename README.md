@@ -25,12 +25,10 @@ My name is Supradip Muralidharan. Originating from Kerala, I currently reside in
   - Commercial Motor Insurance
   <br />
 * **Goplannr Technologies Pvt Ltd** &nbsp; `Lead App Developer` &nbsp; `Jan 2019 - Aug 2019`
-  - Goplannr was an insurance-tech startup that was disrupting the way certified insurance agents sold health insurance in India.
+  - Insurance tech startup that was providing a 3-policy recommendation for agents selling health insurance.
   - Developed OneCover android app using MVVM Pattern & AAC (Android Architecture Components)
   - Integrated Django & Insurance Web Aggregator APIs (Walnut, Instabhima)
   - There were around 1.8k users & every sprint we iterated the product based on customer feedback
-  - Managed 1 intern on android team
-  - Startup shut down
   <br />
 * **[Bright Edge Edusystems Technologies Pvt Ltd](https://www.brightkidmont.com/)** &nbsp; `Mobile App Developer` &nbsp; `Aug 2017 - Sep 2018`
   - Responsible for developing & maintaining 2 real-time android applications (Bright C2P & BCT)
