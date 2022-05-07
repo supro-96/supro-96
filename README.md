@@ -23,6 +23,13 @@ My name is Supradip Muralidharan. Originating from Kerala, I currently reside in
 * **[Ola (ANI Technologies Pvt Ltd)](https://in.linkedin.com/company/olacabs-com)** &nbsp; `Associate Product Manager` &nbsp; `Feb 2021 - Present`
   - Quick Commerce
   - Commercial Motor Insurance
+      - Responsibile for owning the driver app insurance section in India, ANZ & UK. 
+      - Driver base - 2.5L - 3L (India), 20 - 50k (Outside)
+      - Prior to 2021 there was only lead generation for 4w motor insurance in driver app. I concepted, pitched & executed the digital purchase journey. This had a 5% impact on conversion.
+      - Worked with insurance stakeholders & Fyntune (3rd party development company) to introduce 3 month policy purchase in support portal. This contributed to 95% of our sales. Daily avg was 60 policies sold & ticket size ranged between 4-5k.
+      - Introduced 4 localized languages for insurance section in app. Noticed 4% improvement in the product funnel. From user reasearch we found out that drivers became more comfortable using the app & understanding pn's & messages.
+      - Actively evaluated insurance companies for disruptive tech integrations / new product possibilities.
+      - Reasearch was done on a weekly basis : 1-1 conversations with driver, analyzing different insurer's policy document, analyzing call recordings between driver & support agent.
   <br />
 * **Goplannr Technologies Pvt Ltd** &nbsp; `Lead App Developer` &nbsp; `Jan 2019 - Aug 2019`
   - Insurance tech startup that was providing a 3-policy recommendation for agents selling health insurance.
