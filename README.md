@@ -21,15 +21,13 @@ My name is Supradip Muralidharan. Originating from Kerala, I currently reside in
 
 # Work Experience...:bat:
 * **[Ola (ANI Technologies Pvt Ltd)](https://in.linkedin.com/company/olacabs-com)** &nbsp; `Associate Product Manager` &nbsp; `Feb 2021 - Present`
-  - Working on a new vertical called Convenience Delivery
-  - Worked on Commercial Insurance Product till June
+  - Quick Commerce
+  - Commercial Motor Insurance
   <br />
 * **Goplannr Technologies Pvt Ltd** &nbsp; `Lead App Developer` &nbsp; `Jan 2019 - Aug 2019`
-  - Goplannr was an insurance-tech startup that was disrupting the way certified insurance agents sold health insurance in India
-  - First Startup & First Employee
+  - Goplannr was an insurance-tech startup that was disrupting the way certified insurance agents sold health insurance in India.
   - Developed OneCover android app using MVVM Pattern & AAC (Android Architecture Components)
   - Integrated Django & Insurance Web Aggregator APIs (Walnut, Instabhima)
-  - Pilot contracts were signed with Cholamandalam MS, Max Bhupa, Aditya Birla Sun Life
   - There were around 1.8k users & every sprint we iterated the product based on customer feedback
   - Managed 1 intern on android team
   - Startup shut down
